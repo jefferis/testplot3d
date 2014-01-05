@@ -1,0 +1,2 @@
+S3method(plot3d,skel)
+export(plot3d)
